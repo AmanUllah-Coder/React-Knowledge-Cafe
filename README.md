@@ -12,8 +12,8 @@ Welcome to **React Knowledge Cafe** – A React-based platform where users can e
 - **Search Functionality**: Search for articles by keywords.
 - **Responsive Design**: Fully responsive, works on all devices (mobile, tablet, desktop).
 
-## Demo
+## Live Link
 
- You can view the live demo of the project here: 
+ You can view the project here: 
 
- https://knowledgecafe-reactjs.netlify.app/
+ ### https://knowledgecafe-reactjs.netlify.app/
