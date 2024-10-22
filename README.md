@@ -15,3 +15,4 @@ Welcome to **Knowledge Café** – A React-based platform where users can explor
 ## Demo
 
 You can view the live demo of the project here: 
+https://knowledgecafe-reactjs.netlify.app/
