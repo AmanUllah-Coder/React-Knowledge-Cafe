@@ -1,6 +1,6 @@
-# Knowledge Café
+# Knowledge Cafe
 
-Welcome to **Knowledge Café** – A React-based platform where users can explore, share, and engage with a variety of knowledge-rich articles, blogs, and discussions. The application aims to foster a community of learners who are passionate about learning and sharing information.
+Welcome to **React Knowledge Cafe** – A React-based platform where users can explore, share, and engage with a variety of knowledge-rich articles, blogs, and discussions. The application aims to foster a community of learners who are passionate about learning and sharing information.
 
 
 ## Features
@@ -14,5 +14,6 @@ Welcome to **Knowledge Café** – A React-based platform where users can explor
 
 ## Demo
 
-You can view the live demo of the project here: 
-https://knowledgecafe-reactjs.netlify.app/
+ You can view the live demo of the project here: 
+
+ https://knowledgecafe-reactjs.netlify.app/
